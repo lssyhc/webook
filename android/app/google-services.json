@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "527643037991",
+    "project_id": "webook-a828c",
+    "storage_bucket": "webook-a828c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527643037991:android:654966929cd30b32f0d902",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527643037991-qniicg0ic941m47sq90r7d2k2pjnci1t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK_Ik-Sp0FkHO8BkZk0AiRTvkpf_Vrosw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527643037991-qniicg0ic941m47sq90r7d2k2pjnci1t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
